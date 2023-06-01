@@ -36,3 +36,58 @@
     transform: rotate(360deg);
   }
 }
+
+.calculator{
+  width:400px;
+  height:500px;
+  border: 2px solid black;
+  position: absolute;
+  left: 35%;
+  top:15%;
+  border-radius: 5px;
+}
+.btnnum{
+  width:80px;
+  border: 1px solid white;
+
+  height:60px;
+  border-radius: 50%;
+  margin:10px;
+  cursor:pointer;
+  background-color: black;
+  color:white;
+  font-size: 30px;
+}
+
+.equal{
+  width:180px;
+  height:50px;
+  margin:10px;
+  cursor:pointer;
+  background-color: white;
+  color:black;
+  font-size: 30px;
+  background-color: black;
+  color:white;
+  border: none;
+  border-radius: 2px;
+
+
+}
+
+.clear{
+  width:380px;
+  height:50px;
+  margin:10px;
+  cursor:pointer;
+  font-size: 30px;
+  background-color: black;
+  color:white;
+  border: none;
+  border-radius: 2px;
+
+
+
+
+}
+
